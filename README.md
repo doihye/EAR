@@ -11,3 +11,5 @@ This is an official Pytorch implementation of the paper [Environment Agnostic Re
   year={2023}
 }
 ```
+
+Our implementation is based on [SAC](https://github.com/denisyarats/pytorch_sac_ae), [PAD](https://github.com/nicklashansen/policy-adaptation-during-deployment), and [DM Control Suite](https://github.com/google-deepmind/dm_control).
